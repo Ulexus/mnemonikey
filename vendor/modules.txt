@@ -1,0 +1,27 @@
+# github.com/kklash/wordlist4096 v1.0.0
+## explicit; go 1.19
+github.com/kklash/wordlist4096
+# golang.org/x/crypto v0.4.0
+## explicit; go 1.17
+golang.org/x/crypto/argon2
+golang.org/x/crypto/blake2b
+golang.org/x/crypto/cast5
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/curve25519/internal/field
+golang.org/x/crypto/hkdf
+golang.org/x/crypto/openpgp
+golang.org/x/crypto/openpgp/armor
+golang.org/x/crypto/openpgp/elgamal
+golang.org/x/crypto/openpgp/errors
+golang.org/x/crypto/openpgp/packet
+golang.org/x/crypto/openpgp/s2k
+# golang.org/x/sys v0.10.0
+## explicit; go 1.17
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/plan9
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/term v0.10.0
+## explicit; go 1.17
+golang.org/x/term
